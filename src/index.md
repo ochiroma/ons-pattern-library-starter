@@ -1,6 +1,8 @@
 ---
 title: Home
+template: homepage.html
 ---
-Hi, this is my start page; neat ain't it? ;)
 
-###Some info!
+# ONS.GOV.UK pattern library
+
+This guide shown how to make all ONS web sites look consistent with the ons.gov.uk

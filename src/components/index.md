@@ -3,6 +3,6 @@ title: Components
 template: listpage.html
 ---
 
-<p class="page-intro__content">A set of components built up of elements that together make a page.</p>
+<p class="page-intro__content">Groups of elements that together make components.</p>
 
 
