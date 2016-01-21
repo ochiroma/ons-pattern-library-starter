@@ -63,6 +63,7 @@ var parseContentForSnippet = function (files, metalsmith, done) {
 
 Handlebars.registerPartial('header', fs.readFileSync(__dirname + '/templates/partials/header.html').toString());
 Handlebars.registerPartial('footer', fs.readFileSync(__dirname + '/templates/partials/footer.html').toString());
+Handlebars.registerPartial('listpagebreadcrumb', fs.readFileSync(__dirname + '/templates/partials/listpagebreadcrumb.html').toString());
 
 Metalsmith(__dirname)
 	.use(parseContentForSnippet)

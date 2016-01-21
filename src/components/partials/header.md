@@ -12,7 +12,7 @@ type: partial
 					<img class="main-logo" src="https://beta.ons.gov.uk/node_modules/ONS-Pattern-Library/dist/img/ons-logo.png" alt="Office for National Statistics">
 				</a>
 			</div>
-			<div class="language col col--lg-two-thirds col--md-two-thirds print--hide">&nbsp;</div>
+			<div class="col col--lg-two-thirds col--md-two-thirds print--hide">&nbsp;</div>
 			<nav class="secondary-nav col col--lg-two-thirds col--md-two-thirds print--hide">
 				<ul class="secondary-nav__list">
 					<li class="secondary-nav__item">
